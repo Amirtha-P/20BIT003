@@ -1,0 +1,13 @@
+h1{
+    background-color: rgb(255, 169, 238);
+}
+h4{
+    background-color: rgb(247, 133, 224);
+    color: white;
+    width:1500px;
+}
+#container{
+    position: absolute;
+    bottom:0px;
+    
+}
